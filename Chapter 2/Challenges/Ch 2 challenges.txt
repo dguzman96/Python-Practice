@@ -1,0 +1,22 @@
+Darren Guzman
+9/17/18
+Chapter 2 Challenges
+
+1. Legal variable names:
+darren123- lower case, starts with letter and has numbers
+deg_19- lower case, starts with letter and has numbers
+score- descriptive
+highScore- consisten
+
+Illegal variable names:
+darren$$$- contains characters other than letters, numbers and underscores
+12darren- starts with a number
+
+Good legal variable names:
+college- lower case, short
+favorite_color- descriptive, lower case, short
+
+Bad legal variable names:
+FIRSTNAME- uppercase
+first_middle_last_name- too long
+y- not descriptive
